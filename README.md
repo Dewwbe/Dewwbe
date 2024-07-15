@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dewmini Chamodya</h1>
-<h3 align="center">A passionate Software Engineering Undergraduate from India</h3>
+<h3 align="center">A passionate Software Engineering Undergraduate from Sri Lanka</h3>
 <img align ="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=c3a80dd4fcf8e910&q=animated+coding+girl&tbm=isch&source=lnms&prmd=ivsnbmz&sa=X&ved=2ahUKEwi66-bY3saEAxV6umMGHYlQDtgQ0pQJegQIDhAB&biw=767&bih=694&dpr=1.25#imgrc=r1Wu7WNOQQki_M" alt="image">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewwbe" alt="dewwbe" /></a> </p>
